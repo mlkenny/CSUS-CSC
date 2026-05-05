@@ -1,4 +1,4 @@
-# Computer Science Class Repository @ Sacramento State University
+# Comp. Science Class Repository For Sacramento State University
 This repository is intended to be a source of all of the class assignments, projects, labs, and some tests that I have created within my time at Sac State. This is not for distribution or cheating purposes as that would offend the Student Academic Dishonsty policy at the school, it is purely for collective/organizational and nostalgic purposes. Observe what you would like to observe, but all work stated here is mine, Michael Kenny, and mine alone and is not to be copy-pasted.
 
 ## Personal Notes
