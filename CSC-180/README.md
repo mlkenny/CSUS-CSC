@@ -89,5 +89,6 @@ This repository is dedicated to the CSC 180 course taught at Sacramento State by
     - SVM (support vector machine)
     - Splitting Data
 
-# Author
-Michael Kenny
+## Personal Notes
+- This class was extremely fun and interesting. Dr. Mamoun made this class enjoyable and realistic while still lecturing on complex/technical topics. Now did he lecture every class for the entire time like most professors? No. Did he go off on tangents and banter with the class and talk about the school in a similar way as the students? Absolutely.
+- I loved the content of this class, but machine learning and Ai as a career field feels so out of touch and unrealistc I never wanted to persue it. But learning about linear regression and back propagation and neural networks and the like was super fun.
