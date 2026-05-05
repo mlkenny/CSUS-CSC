@@ -1,0 +1,93 @@
+# Intelligent Systems (CSC 180)
+This repository is dedicated to the CSC 180 course taught at Sacramento State by Dr. Mamoun during the Fall 2025 Semester.
+
+## Directory Focal Points
+- ### Lab1
+    - homeprices.csv
+    - Linear Regression
+    - Save/Load Models (pickle and joblib)
+- ### Lab2
+    - canada.csv
+    - Linear Regression
+- ### Lab3
+    - homepricesmedian.csv
+    - Linear Regression
+    - Filling NaN (median)
+- ### Lab4
+    - hiring.csv
+    - Linear Regression
+    - Filling NaN (wordToNum, median)
+- ### Lab5
+    - testscores.csv
+    - Linear Regression
+- ### Lab6
+    - testscores.csv
+    - Linear Regression
+    - Gradient Descent
+- ### Lab7
+    - carprices.csv
+    - Linear Regression
+    - Encoding (dummy var, label encoding -> OHE)
+    - Splitting Data
+    - Matplot Scatter Plots
+- ### Lab8
+    - carprices.csv
+    - Linear Regression
+    - Encoding (dummy var, label encoding -> OHE)
+    - Splitting Data
+    - Save/Load Models (pickle and joblib)
+    - Tkinter
+- ### Lab9
+    - insurance.csv
+    - Logistical Regression
+    - Matplot Scatter Plots
+    - Data Shape
+    - Splitting Data
+- ### Lab10
+    - hr.csv
+    - Logistical Regression
+    - Pandas Bar Graphs
+    - Encoding (label encoding, dummy var)
+    - Splitting Data
+- ### Lab11
+    - digits dataset
+    - Logistical Regression
+    - Data Shape
+    - Splitting Data
+    - Confusion Matrix
+- ### Lab12
+    - iris dataset
+    - Logistical Regression
+    - Feature and Target Names/Columns
+    - Splitting Data
+- ### Lab13
+    - titanic.csv
+    - Logistical Regression
+    - Selecting Important Data
+    - Filling NaN (median)
+    - Encoding (dummy var)
+    - Splitting Data
+- ### Lab14
+    - digits dataset
+    - Logistical Regression
+    - Data Shape
+    - Scalar Scaling
+    - PCA (primary component analysis)
+    - Splitting Data
+- ### Lab15
+    - heart.csv
+    - Logistical Regression
+    - SVM (support vector machine)
+    - Random Forest
+    - Z-Score (remove outliers)
+    - Encoding (label encoding, dummy var)
+    - Scalar Scaling
+    - Splitting Data
+    - PCA (primary component analysis)
+- ### Lab16
+    - digits dataset
+    - SVM (support vector machine)
+    - Splitting Data
+
+# Author
+Michael Kenny

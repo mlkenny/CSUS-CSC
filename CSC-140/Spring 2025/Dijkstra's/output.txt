@@ -1,0 +1,3 @@
+Vertex Count: 8   Edge Count: 14
+Vertices: 0 1 2 3 4 6 5 7
+Distances: 0 2 4 4 8 14 7 13

@@ -1,0 +1,26 @@
+Script started on Thu 20 Apr 2023 04:24:16 PM PDT
+]0;mlkenny@ecs-pa-coding1:~/csc60/lab7[?1034h[mlkenny@ecs-pa-coding1 lab7]$ touch lab7.h
+]0;mlkenny@ecs-pa-coding1:~/csc60/lab7[mlkenny@ecs-pa-coding1 lab7]$ make
+gcc -c lab7.c
+gcc -c get_data.c
+gcc -c get_range_count.c
+gcc lab7.o get_data.o print_all.o get_range_count.o -o range -lm
+]0;mlkenny@ecs-pa-coding1:~/csc60/lab7[mlkenny@ecs-pa-coding1 lab7]$ ./range
+
+Michael Kenny.  Lab 7. 
+
+File lab7a.dat:  
+There are 12 values in the range of 90 through 99
+out of a total of 29 values.
+
+
+Michael Kenny.  Lab 7. 
+
+File lab7b.dat:  
+There are 10 values in the range of 90 through 99
+out of a total of 29 values.
+
+]0;mlkenny@ecs-pa-coding1:~/csc60/lab7[mlkenny@ecs-pa-coding1 lab7]$ exit
+exit
+
+Script done on Thu 20 Apr 2023 04:24:33 PM PDT
