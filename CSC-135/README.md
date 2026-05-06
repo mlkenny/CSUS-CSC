@@ -1,5 +1,5 @@
 # Computability and Formal Languages (CSC 135)
-This repository is dedicated to the CSC 135 course taught at Sacramento State by Dr. Krovetz during the Spring 2025 Semester.
+This repository is dedicated to the CSC 135 course taught at Sacramento State by Dr. Ted Krovetz during the Spring 2025 Semester.
 
 ## Directory Focal Points
 - Implemetations of:
