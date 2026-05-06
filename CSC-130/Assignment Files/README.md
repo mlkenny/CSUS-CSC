@@ -1,5 +1,5 @@
 # Data Structures and Algorithm Analysis (CSC 130)
-This repository is dedicated to the CSC 130 course taught at Sacramento State by Professor Cook during the Spring 2024 Semester.
+This repository is dedicated to the CSC 130 course taught at Sacramento State by Professor Devin Cook during the Spring 2024 Semester.
 
 ## Directory Focal Points
 - Contains code exercises and implementations for the following:
