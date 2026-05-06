@@ -1,5 +1,5 @@
 # Operating System Principles (CSC 139)
-This repository is dedicated to the CSC 139 course taught at Sacramento State by Dr. Khaleq during the Fall 2025 Semester.
+This repository is dedicated to the CSC 139 course taught at Sacramento State by Dr. Abeer Abdel Khaleq during the Fall 2025 Semester.
 
 ## Directory Focal Points
 - Contains implementation examples/practice problems for:
