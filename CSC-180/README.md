@@ -1,5 +1,5 @@
 # Intelligent Systems (CSC 180)
-This repository is dedicated to the CSC 180 course taught at Sacramento State by Dr. Mamoun during the Fall 2025 Semester.
+This repository is dedicated to the CSC 180 course taught at Sacramento State by Dr. Mamoun Samaha during the Fall 2025 Semester.
 
 ## Directory Focal Points
 - ### Lab1
